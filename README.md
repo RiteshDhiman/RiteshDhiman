@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Dhiman</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<div style = {display:flex, justify-items:center, align-items:center}>  
+<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
   <img src = "https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?      jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIxODY4NjEsIm5iZiI6MTcyMjE4NjU2MSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI4VDE3MDkyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzMGRhNTkyYjM5MTgzYzNhYzdlZjMxZDNjMTQ1ODg5NzMxOWRmODZiNTM3NzZlNGEyMWIyYmExMDRhMTU4NWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rH39GXRFhXpwYzfkm_k6JXUIxgYxGqznFQNY22B7ij4">
 </div>
 
